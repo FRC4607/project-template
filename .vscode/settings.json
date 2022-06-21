@@ -29,7 +29,7 @@
   ],
   "java.test.defaultConfig": "WPIlibUnitTests",
   "[java]": {
-    "editor.tabSize": 2,
+    "editor.tabSize": 4,
     "editor.detectIndentation": false,
     "editor.insertSpaces": true
   },
