@@ -34,6 +34,6 @@
     "editor.insertSpaces": true
   },
   "editor.formatOnSave": false,
-  "java.checkstyle.configuration": "${workspaceFolder}/config/checkstyle/checkstyle.xml",
+  "java.checkstyle.configuration": "https://raw.githubusercontent.com/FRC4607/common/main/google_checks.xml",
   "java.checkstyle.version": "10.3",
 }
